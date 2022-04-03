@@ -1,4 +1,11 @@
-## Home Tasks Students Kit
+## Home task 3 
+
+1. `npm run hw1`
+2. `npm run hw2`
+2-2. `npm run hw2-2`
+3. `npm run hw3`
+
+
 
 ### Install
 `npm install`
